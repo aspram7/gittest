@@ -6,7 +6,15 @@
 p {
     background-color: lightskyblue;
     color: #fff;
-    height: 100vh;
+    height: 500px;
     font-size: 55px;
     text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+    background-color: burlywood;
+    height: 200px;
+    text-align: center;
+    font-size: 45px;
 }
